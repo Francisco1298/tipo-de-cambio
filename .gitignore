@@ -1,0 +1,12 @@
+# Credenciales — nunca subir al repositorio
+credenciales.json
+
+# Base de datos local
+tipos_de_cambio.db
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env 
